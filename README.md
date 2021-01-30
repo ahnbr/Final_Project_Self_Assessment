@@ -1,6 +1,6 @@
 # Final Project Assessment
 
-## Self-Assessment
+## Self Assessment
 
 For the final project, I took on the circle role but between the other two members, there was a lot of interchanging work and interaction, so ultimately we worked on things collaboratively. At the outset of the project, I helped search for data sets that would add more information to the initial ones that Devin had found. I also helped with cleaning the data and helping my other team members with things they were having difficulty whether it was the dashboard or the machine learning. The biggest challenge for me was getting comfortable and familiar with using the many different skills that we have learned throughout this course. What made this difficult was that even with the more difficult modules, we were provided a layout and process/procedure and sample code. With this project, we had to navigate through many disciplines and integrate them cohesively so that our final analysis would work and provide us with as accurate as a result as we could without being given a template to work with. Because I didn't have any background in any of the tools we learned, it was a challenge to, in essence, create our own template and then apply everything we learned to analyze our data without specifically knowing exactly our results were expected to be.  
 
